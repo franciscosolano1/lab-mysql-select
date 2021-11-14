@@ -1,7 +1,5 @@
-    ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-
-df=createdf(re.findall"\w\w\w\w")
 # Lab | MySQL Select
 
 ## Introduction
